@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1580029-c8d0-44d0-ab5e-2e1e32f68cd3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/portifólio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/portifólio/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/.idea/Página de Tributo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/.vs/Página de Tributo/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/.vs/Página de Tributo/config/applicationhost.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/.vs/Página de Tributo/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/.vs/Página de Tributo/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/Caetano Veloso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/Caetano.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/Página de Tributo.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/bin/Debug/netcoreapp3.1/Página de Tributo.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/bin/Debug/netcoreapp3.1/Página de Tributo.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/bin/Debug/netcoreapp3.1/Página de Tributo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/bin/Debug/netcoreapp3.1/Página de Tributo.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/bin/Debug/netcoreapp3.1/Página de Tributo.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/bin/Debug/netcoreapp3.1/Página de Tributo.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/caetano.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/caetano.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Debug/netcoreapp3.1/Página de Tributo.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Debug/netcoreapp3.1/Página de Tributo.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Debug/netcoreapp3.1/Página de Tributo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Debug/netcoreapp3.1/Página de Tributo.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Debug/netcoreapp3.1/Página de Tributo.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Debug/netcoreapp3.1/Página de Tributo.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Debug/netcoreapp3.1/Página de Tributo.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Debug/netcoreapp3.1/Página de Tributo.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Debug/netcoreapp3.1/Página de Tributo.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Debug/netcoreapp3.1/Página de Tributo.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Página de Tributo.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Página de Tributo.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Página de Tributo.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Release/netcoreapp3.1/Página de Tributo.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Release/netcoreapp3.1/Página de Tributo.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Release/netcoreapp3.1/Página de Tributo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/Release/netcoreapp3.1/Página de Tributo.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/Página de Tributo/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Página de Tributo/controle.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="209i25qTo046jfnojYaRxclsFAm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RunManager">
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="portifólio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.teste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1580029-c8d0-44d0-ab5e-2e1e32f68cd3" name="Changes" comment="" />
+      <created>1635462993391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635462993391</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
